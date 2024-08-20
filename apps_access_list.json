@@ -1,0 +1,46 @@
+{
+  "options": [
+    {
+      "text": {
+        "type": "plain_text",
+        "text": "Jira"
+      },
+      "value": "jira"
+    },
+    {
+      "text": {
+        "type": "plain_text",
+        "text": "Confluence"
+      },
+      "value": "confluence"
+    },
+    {
+      "text": {
+        "type": "plain_text",
+        "text": "Slack"
+      },
+      "value": "slack"
+    },
+    {
+      "text": {
+        "type": "plain_text",
+        "text": "Trello"
+      },
+      "value": "trello"
+    },
+    {
+      "text": {
+        "type": "plain_text",
+        "text": "Asana"
+      },
+      "value": "asana"
+    },
+    {
+      "text": {
+        "type": "plain_text",
+        "text": "GitHub"
+      },
+      "value": "github"
+    }
+  ]
+}
